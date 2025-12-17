@@ -1,0 +1,5 @@
+{
+  "name": "froword.find",
+  "description": "A super cute and pink word search app! Enter a few letters to find words starting with them.",
+  "requestFramePermissions": []
+}
